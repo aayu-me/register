@@ -1,5 +1,5 @@
 {
-  "repo": "https://github.com/aayu-me/aayu-me.github.io",
+  "repo": "https://github.com/meaayu/personal-portfolio",
 
   "owner": {
     "username": "aayu-me",
@@ -9,7 +9,7 @@
   "target": {
     "CNAME": {
       "name": "aayu", 
-      "value": "aayu-me.github.io"
+      "value": "https://personal-portfolio-nine-nu-55.vercel.app/"
     }
   },
 
